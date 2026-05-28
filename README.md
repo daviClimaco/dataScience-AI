@@ -17,17 +17,4 @@ This workshop covers:
 
 ## Technologies Used
 
-- Python
-- VS Code
-- Jupyter Notebook (if applicable)
-- Data Science libraries (NumPy, Pandas, Matplotlib, etc.)
-
-## Repository Structure
-
-```bash
-.
-├── notebooks/
-├── datasets/
-├── scripts/
-├── images/
-└── README.md
+- 
